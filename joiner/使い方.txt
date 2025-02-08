@@ -1,0 +1,12 @@
+淫夢つーる v0.0.3
+
+token.txtにTOKENをいれる
+######## token.txt ##########
+#TOKEN
+#TOKEN
+#TOKEN
+#TOKEN
+#
+みたいに改行して入れる
+
+実行するとchromeDriverで開かれるので手動でサーバーに参加、参加出来たらターミナルでENTER

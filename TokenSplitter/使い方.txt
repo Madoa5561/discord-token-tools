@@ -1,0 +1,5 @@
+海外のtoken販売者とかからToken買ったときに
+多分こうなってることが多いから
+mail:pass:token
+これのtokenだけを取得してalt_result.txtに出すツール
+alt.txtに買ったリスト入れて実行

@@ -1,0 +1,28 @@
+淫夢つーる v0.0.3
+
+token.txtにTOKENをいれる
+######## token.txt ##########
+#TOKEN
+#TOKEN
+#TOKEN
+#TOKEN
+#
+みたいに改行して入れる
+-------------------------------------
+message.txtにスパムしたいメッセージをいれる
+####### message.txt ##########
+#https://s.moyashi.xyz/FKzHg7
+#⚠野獣先輩を崇めよ⚠
+#https://img.cdn.nimg.jp/s/nicovideo/thumbnails/39681749/39681749.7860892.original/r1280x720lkey=8bc8ebb87e7286cef4e3303bb32e15b93e99c959e9fe4ce2af66884a4167024a
+#⚠野獣先輩を崇めよ⚠
+#https://stat.ameba.jp/user_images/20161230/20/114514mk/be/ae/j/o0480036013833667088.jpg
+#⚠野獣先輩を崇めよ⚠
+#
+
+message.txtにはメンションは含めないでください
+
+実行する
+
+ターミナルの説明に沿って進めていく
+
+以上
